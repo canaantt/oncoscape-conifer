@@ -11,7 +11,7 @@ $ cd conifer
 Then run:
 
 ``` 
-python conifer.py  analyze \ 
+python conifer.py analyze \ 
 --probes ../sampledata/probes.txt \ 
 --rpkm_dir ../sampledata/RPKM_data/ \
 --output analysis.hdf5 \
